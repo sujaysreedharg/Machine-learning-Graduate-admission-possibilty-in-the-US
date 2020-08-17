@@ -6,4 +6,22 @@ Predicted using Linear Regression
 Kaggle :https://www.kaggle.com/sujay12345/pre…
 
 
-if you want to view the deployed model then check this out : https://github.com/sujay12345/Graduate-admission-prediction-using-machine-learning-dockerized-deployment
+# Graduate Admission Prediction Machine Learning Model Docker Containerized Deployment On Heroku Cloud
+
+ https://github.com/sujay12345/Graduate-admission-prediction-using-machine-learning-dockerized-deployment
+
+
+
+
+# Checkout the research paper : <br>
+http://www.ijtrd.com/papers/IJTRD22200.pdf
+
+# My Docker Implementation Youtube tutorial : <br>
+https://www.youtube.com/watch?v=8SlhHMmz5yg
+
+
+
+
+
+
+
